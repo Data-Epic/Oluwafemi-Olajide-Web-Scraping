@@ -2,8 +2,8 @@
 
 # Premier League Web Scraping and Data Processing Pipeline
 
-![EPL Table](./EPL_Table.png)
-![Goalkeeping Stats](./Goal_Keeping_Stats.png)
+![EPL Table](premier_league_scraper/EPL_Table.png)
+![Goalkeeping Stats](premier_league_scraper/Goal_Keeping_Stats.png)
 
 ---
 
