@@ -15,9 +15,6 @@ premier_league_scraper/src/upload.log
 # Ignore HTML test data
 premier_league_scraper/src/premier_league_stats.html
 
-# Ignore screenshots if not needed
-*.png
-
 # Ignore IDE/editor files
 .vscode/
 *.sublime-project
